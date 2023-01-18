@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Entrance
-        text='导入Excel' 
+        text='导入Excel1' 
       />
       <ChartsView/>
     </div>
